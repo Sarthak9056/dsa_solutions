@@ -11,5 +11,5 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 |---|-------|---------|-----------|--------|
 | 1 | Arrays & Hashing | Two Sum | Easy | ✅ |
 | 2 | Arrays & Hashing | Contains Duplicate | Easy | ✅ |
-| 3 | |Valid Anagram | | ✅ |
-| 4 | |Group Anagram | | ✅ |
+| 3 | Arrays & Hashing |Valid Anagram | Easy | ✅ |
+| 4 | Arrays & Hashing |Group Anagram | Medium | ✅ |
