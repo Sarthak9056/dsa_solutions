@@ -16,3 +16,5 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 | 5 | Arrays & Hashing | Top K Frequent Elements | Medium | ✅ |
 | 6 | Arrays & Hashing | Design HashMap | Easy | ✅ |
 | 7 | Arrays & Hashing | Product of Array Except Self | Medium | ✅ |
+| 8 | Arrays & Hashing | Valid Sudoku | Medium | ✅ |
+| 9 | Arrays & Hashing | Longest Consecutive Sequence | Medium | ✅ |
