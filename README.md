@@ -18,3 +18,6 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 | 7 | Arrays & Hashing | Product of Array Except Self | Medium | ✅ |
 | 8 | Arrays & Hashing | Valid Sudoku | Medium | ✅ |
 | 9 | Arrays & Hashing | Longest Consecutive Sequence | Medium | ✅ |
+| 10 | Arrays & Hashing | Majority Element | Easy | ✅ |
+| 11 | Arrays & Hashing | Sort Colors | Medium | ✅ |
+| 12 | Arrays & Hashing | Merge Sorted | Easy | ✅ |
