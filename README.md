@@ -21,3 +21,5 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 | 10 | Arrays & Hashing | Majority Element | Easy | ✅ |
 | 11 | Arrays & Hashing | Sort Colors | Medium | ✅ |
 | 12 | Arrays & Hashing | Merge Sorted | Easy | ✅ |
+| 13 | Arrays & Hashing | Remove Duplicates from Sorted Array | Easy | ✅ |
+| 14 | Arrays & Hashing | Pascal's Triangle | Easy | ✅ |
