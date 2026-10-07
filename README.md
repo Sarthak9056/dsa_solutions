@@ -23,3 +23,16 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 | 12 | Arrays & Hashing | Merge Sorted | Easy | ✅ |
 | 13 | Arrays & Hashing | Remove Duplicates from Sorted Array | Easy | ✅ |
 | 14 | Arrays & Hashing | Pascal's Triangle | Easy | ✅ |
+## Pandas Practice (LeetCode "Introduction to Pandas")
+| # | Problem | Status |
+|---|---------|--------|
+| 2877 | Create a DataFrame from List | ✅ |
+| 2878 | Get the Size of a DataFrame | ✅ |
+| 2879 | Display the First Three Rows | ✅ |
+| 2880 | Select Data | ✅ |
+| 2881 | Create a New Column | ✅ |
+| 2882 | Drop Duplicate Rows | ✅ |
+| 2883 | Drop Missing Data | ✅ |
+| 2884 | Modify Columns | ✅ |
+| 2885 | Rename Columns | ✅ |
+| 2886 | Change Data Type | ✅ |
