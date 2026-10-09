@@ -23,6 +23,12 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 | 12 | Arrays & Hashing | Merge Sorted | Easy | ✅ |
 | 13 | Arrays & Hashing | Remove Duplicates from Sorted Array | Easy | ✅ |
 | 14 | Arrays & Hashing | Pascal's Triangle | Easy | ✅ |
+| 15 | Arrays & Hashing | Next Permutation | Medium | ✅ |
+| 16 | Arrays & Hashing | Missing Number | Easy | ✅ |
+| 17 | Arrays & Hashing | First Missing Positive | Hard | ✅ |
+| 18 | Arrays & Hashing | Set Matrix Zero | Medium | ✅ |
+| 19 | Arrays & Hashing | Spiral Matrix | Medium | ✅ |
+| 20 | Arrays & Hashing | Rotate Image | Medium | ✅ |
 ## Pandas Practice (LeetCode "Introduction to Pandas")
 | # | Problem | Status |
 |---|---------|--------|
@@ -36,3 +42,8 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 | 2884 | Modify Columns | ✅ |
 | 2885 | Rename Columns | ✅ |
 | 2886 | Change Data Type | ✅ |
+| 2887 | Fill Missing Data | ✅ |
+| 2888 | Reshape Data: Concatenate | ✅ |
+| 2889 | Reshape Data: Pivot | ✅ |
+| 2890 | Reshape Data: Melt | ✅ |
+| 2891 | Method Chaining | ✅ |
