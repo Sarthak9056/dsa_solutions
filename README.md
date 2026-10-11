@@ -29,6 +29,15 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 | 18 | Arrays & Hashing | Set Matrix Zero | Medium | ✅ |
 | 19 | Arrays & Hashing | Spiral Matrix | Medium | ✅ |
 | 20 | Arrays & Hashing | Rotate Image | Medium | ✅ |
+| 21 | Arrays & Hashing | Subarray Sum Equals K | Medium | ✅ |
+| 22 | Arrays & Hashing | Majority Element II | Medium | ✅ |
+| 23 | Arrays & Hashing | Range Sum Query - Immutable | Easy | ✅ |
+| 24 | Arrays & Hashing | Count Prime | Medium | ✅ |
+| 25 | Arrays & Hashing | Ransom Note | Easy | ✅ |
+| 26 | Arrays & Hashing | Insert Delete GetRandom O(1) | Medium | ✅ |
+| 27 | Arrays & Hashing | Maximum Subarray | Medium | ✅ |
+| 28 | Arrays & Hashing | Maximum Product Subarray | Medium | ✅ |
+| 29 | Arrays & Hashing | Summary Range | Easy | ✅ |
 ## Pandas Practice (LeetCode "Introduction to Pandas")
 | # | Problem | Status |
 |---|---------|--------|
