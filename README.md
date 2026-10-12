@@ -38,6 +38,10 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 | 27 | Arrays & Hashing | Maximum Subarray | Medium | ✅ |
 | 28 | Arrays & Hashing | Maximum Product Subarray | Medium | ✅ |
 | 29 | Arrays & Hashing | Summary Range | Easy | ✅ |
+| 30 | Two Pointer | Reverse String | Easy | ✅ |
+| 31 | Two Pointer | Merge Strings Alternately | Easy | ✅ |
+| 32 | Two Pointer | Valid Palindrome | Easy | ✅ |
+| 33 | Two Pointer | Is Subsequence | Easy | ✅ |
 ## Pandas Practice (LeetCode "Introduction to Pandas")
 | # | Problem | Status |
 |---|---------|--------|
