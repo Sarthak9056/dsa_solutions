@@ -42,6 +42,10 @@ Language: Python | Goal: 300 problems by Aug 2027 | Started: 28 Sept 2026
 | 31 | Two Pointer | Merge Strings Alternately | Easy | ✅ |
 | 32 | Two Pointer | Valid Palindrome | Easy | ✅ |
 | 33 | Two Pointer | Is Subsequence | Easy | ✅ |
+| 34 | Two Pointer | Move Zeros | Medium | ✅ |
+| 35 | Two Pointer | Squares of a Sorted Array | Medium | ✅ |
+| 36 | Two Pointer | Maximum Alternative Sum of Square | Medium | ✅ |
+| 37 | Two Pointer | Two Sum II - Input Array is Sorted | Medium | ✅ |
 ## Pandas Practice (LeetCode "Introduction to Pandas")
 | # | Problem | Status |
 |---|---------|--------|
